@@ -152,6 +152,7 @@ aside#sidebar .quote input{
         float: none;
         text-align: center;
         width: 100%;
+        background-position: center right;
     }
     header{
         padding-bottom: 20px;
